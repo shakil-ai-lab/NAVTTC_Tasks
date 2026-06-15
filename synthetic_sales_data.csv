@@ -1,0 +1,6 @@
+OrderID,Product,Region,Units,Revenue,Date
+1001,Widget A,North America,15,2100,2024-01-10
+1002,Widget B,Europe,8,1200,2024-01-12
+1003,Widget A,Asia,25,3500,2024-01-15
+1004,Widget C,Europe,12,1800,2024-01-18
+1005,Widget B,South America,10,1500,2024-01-20
